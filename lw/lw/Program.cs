@@ -12,6 +12,7 @@ namespace lw
                 a *= a;
                 Console.WriteLine(a);
             }
+            Console.Write("");
         }
     }
 }
